@@ -1,6 +1,5 @@
 const neilQuotes = [
     "I have to at least try",
-    "For the choice was between submission and breaking, although he didn't know if he could pull himself together again, he wasn't that strong, and he never had been",
     "Thank you... you were amazing",
     "I'm fine",
     "22 cities, Neil said, without specifying that they are located in 16 different countries",
@@ -15,7 +14,6 @@ const neilQuotes = [
     "Die free or broken, the choice is yours",
     "Ich hasse dich",
     "Who was killed there?",
-    "Home.. Welcome home, Neil",
     "Poof, and he was gone. Impressive, isn't it? How easy it is for these monsters to die in the end",
     "Nathaniel wasn't like everyone else"
 ];
